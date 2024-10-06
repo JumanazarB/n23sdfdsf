@@ -3,15 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-div{
-    width: 100vw;
-    height: 100vh;
-    background-image: url(./img/Boqiyev\ Jumanazar_diplom.png);
+div{margin: auto;
+    width: 1340px;
+    height: 630px;
+    background-image: url(./img/diploma.png);
     background-size: 100% 100%;
-}
-div img{
-    height: 20vh;
-    position: absolute;
-    right: 57vw;
-    bottom: 6vh;
 }
